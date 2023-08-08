@@ -1,0 +1,3 @@
+Both the TEST and TRAIN datasets were too large
+
+link for the datasets: https://drive.google.com/drive/folders/17uTzl7mjES4MI6w4TTj1x3u3LDrZP-ka?usp=drive_link
